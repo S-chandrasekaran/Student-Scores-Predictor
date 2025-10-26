@@ -7,7 +7,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 # Title
 st.title("📚 Student Exam Score Predictor")
-
+st.write("Developed by CHANDRASEKARAN S")
 # File uploader
 uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
 
