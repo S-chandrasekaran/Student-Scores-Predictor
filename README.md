@@ -7,7 +7,7 @@ This Streamlit app allows users to upload a student dataset and predict exam sco
 - 🔍 One-click training of a linear regression model
 - 📊 Display of actual vs predicted scores
 - 📈 Interactive scatter plot visualization
-- 📉 Performance metrics: Mean Squared Error (MSE) and R² Scor
+- 📉 Performance metrics: Mean Squared Error (MSE) and R² Score
 
 📦 Requirements
 Make sure the following Python packages are listed in your requirements.txt:
